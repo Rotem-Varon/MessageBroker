@@ -1,0 +1,1 @@
+This project should not be part of the solution. It should be as a separe nuget pkg. It was added to allow the solution to work out of the box.

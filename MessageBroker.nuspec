@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MessageBroker</id>
+    <version>1.0.0</version>
+    <authors>Rotem Varon</authors>
+    <owners>Rotem Varon</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Message Broker</description>
+    <releaseNotes>Message Broker releaseNotes</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+  <files>
+        <file src="ChannelManagment\bin\Debug\*.dll" target="lib" />
+		<file src="ChannelStore\bin\Debug\*.dll" target="lib" />
+		<file src="ChannleAdapter\bin\Debug\*.dll" target="lib" />
+		<file src="Common\bin\Debug\*.dll" target="lib" />
+    </files>
+</package>
