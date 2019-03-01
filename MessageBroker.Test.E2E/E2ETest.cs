@@ -22,7 +22,7 @@ namespace MessageBroker.Test.E2E
         IInboundChannelStore _inboundChannelStore;
         IOutboundChannelStore _outboundChannelStore;
 
-        string _connectionString = "";
+        string _connectionString = "Add your azure service bus connection string here";
         ushort _maxConcurrentReaders = 10;
 
         string _messageBrokerE2ETestTopic = "MessageBrokerE2ETestTopic" + DateTime.Now.Ticks;
