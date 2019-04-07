@@ -5,11 +5,11 @@ This is a facade / wrapper around Azure Service Bus *MOM.
 *a Messaging Oriented Middleware (MOM)
 
 - Some of the features:
--- connection builder 
--- easy to use connection pool
--- reuse of connections (desirable)
--- SQL filters for subscriptions
--- stats
+    - connection builder 
+    - easy to use connection pool
+    - reuse of connections (desirable)
+    - SQL filters for subscriptions
+    - stats
 
 - How to run the tests:
 
