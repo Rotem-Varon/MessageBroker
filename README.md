@@ -10,7 +10,7 @@ The project can be easily tested by running the end to end (E2E) tests. Just add
 
     string _connectionString = "Add your azure service bus connection string here";
 
-![explorer](explorer.png)
+![explorer] (explorer.PNG)
 
 Further info about Azure service bus can be found here:
 https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview
