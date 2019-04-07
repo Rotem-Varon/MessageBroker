@@ -9,7 +9,7 @@ This is a facade / wrapper around Azure Service Bus *MOM.
     - easy to use connection pool
     - reuse of connections (desirable)
     - SQL filters for subscriptions
-    - stats
+    - stats (for example: you can get insights for how long it took to handle a message)
 
 - How to run the tests:
 
